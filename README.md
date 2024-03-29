@@ -1,1 +1,1 @@
-# odin-recipes
+This is a project from The Odin Projects and is meant to showcase rudimentary skills of HTML.
